@@ -1,2 +1,1 @@
-# panatesas.github.io
 Граммар
